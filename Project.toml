@@ -1,7 +1,7 @@
 name = "QuantumPropagators"
 uuid = "7bf12567-5742-4b91-a078-644e72a65fc1"
-authors = ["Michael Goerz <mail@michaelgoerz.net>"]
 version = "0.8.5+dev"
+authors = ["Michael Goerz <mail@michaelgoerz.net>"]
 
 [deps]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
@@ -26,7 +26,7 @@ QuantumPropagatorsStaticArraysExt = "StaticArrays"
 
 [compat]
 OffsetArrays = "1"
-OrdinaryDiffEq = "6.59"
+OrdinaryDiffEq = "6.59, 7"
 ProgressMeter = "1"
 Random = "1"
 RecursiveArrayTools = "3.12"
